@@ -1,0 +1,22 @@
+/*I got style*/
+p
+{
+    text-align:center;
+}
+h2
+{
+    text-shadow: 3px 3px #ff0000;
+}
+a
+{
+    color:red;
+}
+h1
+{
+    font-weight:950;
+}
+h3
+{
+    text-decoration:underline;
+    text-decoration-color:red;
+}

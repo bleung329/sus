@@ -1,0 +1,25 @@
+/*I some more got style*/
+p
+{
+    text-shadow: 3px 3px yellow;
+    text-align:right;
+    background-color:black;
+}
+h2
+{
+    text-decoration:underline;
+    text-decoration-style:wavy;
+}
+a
+{
+    color:brown;
+}
+h1
+{
+    font-weight:350;
+}
+h3
+{
+    text-decoration:underline;
+    text-decoration-style:wavy;
+}
