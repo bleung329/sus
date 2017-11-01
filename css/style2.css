@@ -12,7 +12,7 @@ h2
 }
 a
 {
-    color:brown;
+    color:lightgreen;
 }
 h1
 {
@@ -22,4 +22,8 @@ h3
 {
     text-decoration:underline;
     text-decoration-style:wavy;
+}
+body
+{
+	background-color: black
 }
